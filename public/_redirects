@@ -1,2 +1,2 @@
 # Redirects from what the game client requests to what we serve
-ad.pak https://q1mods.xyz/ad.pak 200
+ad.pak https://q1mods.xyz/ad.pak 301
