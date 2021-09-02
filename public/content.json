@@ -1,12 +1,17 @@
 {
 	"addons": [
 		{
-			"name": "Test",
-			"author": "Test",
-			"date": "11/11/2011",
+			"name": "Arcane Dimensions",
+			"author": "simonoc",
+			"date": "10/1/2015",
 			"size": 814411580,
 			"description": {
-				"en": "Test"
+				"fr": "An alternative universe of Quake featuring new game play features, a massive variety of monsters and 30+ maps to explore!",
+				"it": "An alternative universe of Quake featuring new game play features, a massive variety of monsters and 30+ maps to explore!",
+				"de": "An alternative universe of Quake featuring new game play features, a massive variety of monsters and 30+ maps to explore!",
+				"en": "An alternative universe of Quake featuring new game play features, a massive variety of monsters and 30+ maps to explore!",
+				"es": "An alternative universe of Quake featuring new game play features, a massive variety of monsters and 30+ maps to explore!",
+				"ru": "An alternative universe of Quake featuring new game play features, a massive variety of monsters and 30+ maps to explore!"
 			},
 			"gamedir": "ad",
 			"download": "ad.pak",
