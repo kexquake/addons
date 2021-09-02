@@ -21,7 +21,7 @@ Append `+ui_addonsBaseURL http://kexquake.netlify.app/` to your Quake [launch op
 ### Testing Branch
 If you wish to test additional mods in various stages of compatibility:
 
-Append `+ui_addonsBaseURL http://kexquake.netlify.app/beta` to your Quake [launch options].
+Append `+ui_addonsBaseURL http://kexquake.netlify.app/beta/` to your Quake [launch options].
 
 Submit an issue if you discover a mod is now fully functional after a game update.
 
