@@ -1,0 +1,16 @@
+{
+	"addons": [
+		{
+			"name": "Test",
+			"author": "Test",
+			"date": "11/11/2011",
+			"size": 814411580,
+			"description": {
+				"en": "Test"
+			},
+			"gamedir": "ad",
+			"download": "https://q1mods.xyz/ad.pak",
+			"screenshots": [],
+			"id": "ad"
+		}
+	]
