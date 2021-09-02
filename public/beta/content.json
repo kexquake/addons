@@ -1,0 +1,75 @@
+{
+	"addons": [
+		{
+			"name": "Arcane Dimensions",
+			"author": "simonoc",
+			"date": "10/1/2015",
+			"size": 814411580,
+			"description": {
+				"fr": "An alternative universe of Quake featuring new game play features, a massive variety of monsters and 30+ maps to explore!",
+				"it": "An alternative universe of Quake featuring new game play features, a massive variety of monsters and 30+ maps to explore!",
+				"de": "An alternative universe of Quake featuring new game play features, a massive variety of monsters and 30+ maps to explore!",
+				"en": "An alternative universe of Quake featuring new game play features, a massive variety of monsters and 30+ maps to explore!",
+				"es": "An alternative universe of Quake featuring new game play features, a massive variety of monsters and 30+ maps to explore!",
+				"ru": "An alternative universe of Quake featuring new game play features, a massive variety of monsters and 30+ maps to explore!"
+			},
+			"gamedir": "ad",
+			"download": "ad.pak",
+			"screenshots": [],
+			"id": "ad"
+		},
+        {
+			"name": "Kickflip Quake",
+			"author": "Squizmek",
+			"date": "18/3/2008",
+			"size": 4821324,
+			"description": {
+				"fr": "The one and only skating mod for Quake1! Load a map you like (there are skating maps included) and bust some tricks! Want to test your skills? Start a competition against some bots! -Made by Squirt",
+				"it": "The one and only skating mod for Quake1! Load a map you like (there are skating maps included) and bust some tricks! Want to test your skills? Start a competition against some bots! -Made by Squirt",
+				"de": "The one and only skating mod for Quake1! Load a map you like (there are skating maps included) and bust some tricks! Want to test your skills? Start a competition against some bots! -Made by Squirt",
+				"en": "The one and only skating mod for Quake1! Load a map you like (there are skating maps included) and bust some tricks! Want to test your skills? Start a competition against some bots! -Made by Squirt",
+				"es": "The one and only skating mod for Quake1! Load a map you like (there are skating maps included) and bust some tricks! Want to test your skills? Start a competition against some bots! -Made by Squirt",
+				"ru": "The one and only skating mod for Quake1! Load a map you like (there are skating maps included) and bust some tricks! Want to test your skills? Start a competition against some bots! -Made by Squirt"
+			},
+			"gamedir": "kickflip",
+			"download": "kickflip.pak",
+			"screenshots": [],
+			"id": "kickflip"
+		},
+        {
+			"name": "Rubicon Rumble Pack",
+			"author": "Hrimfaxi, ijed, mfx",
+			"date": "14/9/2014",
+			"size": 209188332,
+			"description": {
+				"fr": "Four very large industrial/base maps based on Rubicon 2. Includes a start map and introduces some new gameplay elements.",
+				"it": "Four very large industrial/base maps based on Rubicon 2. Includes a start map and introduces some new gameplay elements.",
+				"de": "Four very large industrial/base maps based on Rubicon 2. Includes a start map and introduces some new gameplay elements.",
+				"en": "Four very large industrial/base maps based on Rubicon 2. Includes a start map and introduces some new gameplay elements.",
+				"es": "Four very large industrial/base maps based on Rubicon 2. Includes a start map and introduces some new gameplay elements.",
+				"ru": "Four very large industrial/base maps based on Rubicon 2. Includes a start map and introduces some new gameplay elements."
+			},
+			"gamedir": "rubicon",
+			"download": "rubicon.pak",
+			"screenshots": [],
+			"id": "rubicon"
+		},
+        {
+			"name": "Team Fortress v2.8",
+			"author": "Team Fortress Software",
+			"date": "23/5/1998",
+			"size": 41760920,
+			"description": {
+				"fr": "Team Fortress is a revolutionary team and class based multiplayer first person shooter mod for Quake.",
+				"it": "Team Fortress is a revolutionary team and class based multiplayer first person shooter mod for Quake.",
+				"de": "Team Fortress is a revolutionary team and class based multiplayer first person shooter mod for Quake.",
+				"en": "Team Fortress is a revolutionary team and class based multiplayer first person shooter mod for Quake.",
+				"es": "Team Fortress is a revolutionary team and class based multiplayer first person shooter mod for Quake.",
+				"ru": "Team Fortress is a revolutionary team and class based multiplayer first person shooter mod for Quake."
+			},
+			"gamedir": "fortress",
+			"download": "fortress.pak",
+			"screenshots": [],
+			"id": "fortress"
+		},
+	]
