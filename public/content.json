@@ -16,10 +16,10 @@
       "gamedir": "q64",
       "download": "q64.pak",
       "screenshots": [
-        "q641.jpg",
-        "q642.jpg",
-        "q643.jpg",
-        "q644.jpg"
+        "screenshots/q64/1.jpg",
+        "screenshots/q64/2.jpg",
+        "screenshots/q64/3.jpg",
+        "screenshots/q64/4.jpg"
       ],
       "id": "q64"
     },
@@ -29,12 +29,12 @@
 			"date": "1997",
 			"size": 66485468,
 			"description": {
-				"fr": "X-Men: The Ravages of Apocalypse is an original, first-person X-Men game using the Quake engine. X-Men: ROA is a 'total conversion', a game that relies on another game's engine, but changes every other aspect including story, locations, characters, weapons, display and interface.",
-				"it": "X-Men: The Ravages of Apocalypse is an original, first-person X-Men game using the Quake engine. X-Men: ROA is a 'total conversion', a game that relies on another game's engine, but changes every other aspect including story, locations, characters, weapons, display and interface.",
-				"de": "X-Men: The Ravages of Apocalypse is an original, first-person X-Men game using the Quake engine. X-Men: ROA is a 'total conversion', a game that relies on another game's engine, but changes every other aspect including story, locations, characters, weapons, display and interface.",
-				"en": "X-Men: The Ravages of Apocalypse is an original, first-person X-Men game using the Quake engine. X-Men: ROA is a 'total conversion', a game that relies on another game's engine, but changes every other aspect including story, locations, characters, weapons, display and interface.",
-				"es": "X-Men: The Ravages of Apocalypse is an original, first-person X-Men game using the Quake engine. X-Men: ROA is a 'total conversion', a game that relies on another game's engine, but changes every other aspect including story, locations, characters, weapons, display and interface.",
-				"ru": "X-Men: The Ravages of Apocalypse is an original, first-person X-Men game using the Quake engine. X-Men: ROA is a 'total conversion', a game that relies on another game's engine, but changes every other aspect including story, locations, characters, weapons, display and interface."
+				"fr": "X-Men: The Ravages of Apocalypse est un jeu vidéo de tir à la première personne développé par Zero Gravity Entertainment et édité par WizardWorks Software sorti en 1997 sur DOS, Windows, Mac OS et Linux.",
+				"it": "X-Men: The Ravages of Apocalypse, sviluppato dalla Zero Gravity Entertainment e pubblicato dalla WizardWorks Software, è una mod ufficiale del motore di gioco di Quake. Nel gioco i nemici che deve affrontare il giocatore sono dei cyborg cloni dei personaggi di X-Men. Per poter essere utilizzato, il videogioco ha bisogno della versione completa di Quake.",
+				"de": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
+				"en": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
+				"es": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
+				"ru": "X-Men: The Ravages of Apocalypse или X-Men: RОА (в переводе Люди Икс: Месть Апокалипсиса) — оригинальная компьютерная игра в жанре шутера от первого лица созданная на движке Quake, несмотря на то что игра основана на движке другой игры, было изменено всё во всех других аспектах, включая сюжет, карты, персонажи, оружие, дисплей и интерфейс. X-Men: The Ravages of Apocalypse была первой коммерческой игрой на базе движка Quake engine не использующей сюжет о вселенной Quake. Она была также первой 3D игрой использующей в реальном масштабе времени Lightwave 3D для всех созданных моделей и анимации в игре. В продажу игра вышла 1 декабря 1997 года. В 2005 году игра была выпущена в свободное обращение вместе с патчем 1.1, который дал возможность игры за одного из X-Men. В июле 2006 года также был открыт исходный код."
 			},
 			"gamedir": "xmen",
 			"download": "xmen.pak",
