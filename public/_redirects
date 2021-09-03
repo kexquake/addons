@@ -1,14 +1,14 @@
 # Redirects from what the game client requests to what we serve.
-# Gitlab Pages won't allow domain-level redirects to outside sites so we use netlify instead.
+# Pages won't allow domain-level redirects to outside sites so we use netlify instead.
 # Todo: Investigate filehosting options and mirrors.
 
 # Website
-/ https://gitlab.com/KexQUAKE/addons 200
-index.html https://gitlab.com/KexQUAKE/addons 200
+/ https://github.com/KexQUAKE/addons 200
+index.html https://github.com/KexQUAKE/addons 200
 
 # Official Mods
 q64.pak https://d13lkw7j6mfai6.cloudfront.net/q64.pak 301
-q64-mirror.pak https://web.archive.org/web/20210903161324/https://d13lkw7j6mfai6.cloudfront.net/q64.pak 301
+q64-mirror.pak https://github.com/kexquake/addons/releases/download/q64-1/q64.pak 301
 
 # Stable Mods
 xmen.pak https://q1mods.xyz/xmen.pak 301
