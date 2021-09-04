@@ -12,14 +12,20 @@
 **Table of Contents**
 
 - [Quake 2021 Remaster (Kex Quake) Mod Server](#quake-2021-remaster-kex-quake-mod-server)
+  - [Description](#description)
   - [Quick Setup](#quick-setup)
     - [Testing Branch](#testing-branch)
   - [Available Addons](#available-addons)
+  - [Testing Branch](#testing-branch-1)
   - [Troubleshooting](#troubleshooting)
     - [Opening the addon menu crashes the game](#opening-the-addon-menu-crashes-the-game)
     - [Activating a mod crashes the game](#activating-a-mod-crashes-the-game)
     - [I'm experiencing a technical problem with a mod](#im-experiencing-a-technical-problem-with-a-mod)
   - [Credit](#credit)
+
+## Description
+
+This is an alternative addon server for Quake (2021) allowing you to easily access additional community created content. 
 
 ## Quick Setup
 
@@ -35,6 +41,14 @@ Submit an issue if you discover a mod is now fully functional after a game updat
 ## Available Addons
 - Quake 64
 - X-Men: The Ravages of Apocalypse
+  
+<details>
+  <summary>Click to see addons in testing...</summary>
+  
+  ## Testing Branch
+- Arcane Dimensions
+</details>
+
 
 ## Troubleshooting
 

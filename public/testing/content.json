@@ -14,12 +14,12 @@
 				"ru": "While DOOM was ported to many platforms throughout its lifetime, Quake only saw two ports due to its much higher system requirements. One of those ports was to a 32-bit console, and the other was Quake 64. While both ports featured modified versions of the original levels in order to run on the hardware at the time, Quake 64 featured a few changes that differentiated itself from the original 1996 release. Colored lighting, a brand new soundtrack by acclaimed composer Aubrey Hodges, and two player split screen multiplayer were all unique to this version of the game. The unique nature of Quake 64 has caused it to be looked back on fondly by some players over the years, which is why we are happy to be able to bring it into modern times, with the original soundtrack intact."
 			},
 			"gamedir": "q64",
-			"download": "q64.pak",
+			"download": "../q64.pak",
 			"screenshots": [
-				"screenshots/q64/1.jpg",
-				"screenshots/q64/2.jpg",
-				"screenshots/q64/3.jpg",
-				"screenshots/q64/4.jpg"
+				"../screenshots/q64/1.jpg",
+				"../screenshots/q64/2.jpg",
+				"../screenshots/q64/3.jpg",
+				"../screenshots/q64/4.jpg"
 			],
 			"id": "q64"
 		},
@@ -29,17 +29,35 @@
 			"date": "1997",
 			"size": 66485468,
 			"description": {
-				"fr": "X-Men: The Ravages of Apocalypse est un jeu vidéo de tir à la première personne développé par Zero Gravity Entertainment et édité par WizardWorks Software sorti en 1997 sur DOS, Windows, Mac OS et Linux.",
-				"it": "X-Men: The Ravages of Apocalypse, sviluppato dalla Zero Gravity Entertainment e pubblicato dalla WizardWorks Software, è una mod ufficiale del motore di gioco di Quake. Nel gioco i nemici che deve affrontare il giocatore sono dei cyborg cloni dei personaggi di X-Men. Per poter essere utilizzato, il videogioco ha bisogno della versione completa di Quake.",
+				"fr": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
+				"it": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
 				"de": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
 				"en": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
 				"es": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
-				"ru": "X-Men: The Ravages of Apocalypse или X-Men: RОА (в переводе Люди Икс: Месть Апокалипсиса) — оригинальная компьютерная игра в жанре шутера от первого лица созданная на движке Quake, несмотря на то что игра основана на движке другой игры, было изменено всё во всех других аспектах, включая сюжет, карты, персонажи, оружие, дисплей и интерфейс. X-Men: The Ravages of Apocalypse была первой коммерческой игрой на базе движка Quake engine не использующей сюжет о вселенной Quake. Она была также первой 3D игрой использующей в реальном масштабе времени Lightwave 3D для всех созданных моделей и анимации в игре. В продажу игра вышла 1 декабря 1997 года. В 2005 году игра была выпущена в свободное обращение вместе с патчем 1.1, который дал возможность игры за одного из X-Men. В июле 2006 года также был открыт исходный код."
+				"ru": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property."
 			},
 			"gamedir": "xmen",
-			"download": "xmen.pak",
+			"download": "../xmen.pak",
 			"screenshots": [],
 			"id": "xmen"
+		},
+		{
+			"name": "Arcane Dimensions [Testing]",
+			"author": "simonoc",
+			"date": "10/1/2015",
+			"size": 814411580,
+			"description": {
+				"fr": "Known problems: Crash on saving.",
+				"it": "Known problems: Crash on saving.",
+				"de": "Known problems: Crash on saving.",
+				"en": "Known problems: Crash on saving.",
+				"es": "Known problems: Crash on saving.",
+				"ru": "Known problems: Crash on saving."
+			},
+			"gamedir": "ad",
+			"download": "../ad.pak",
+			"screenshots": [],
+			"id": "ad"
 		}
 	]
 }
