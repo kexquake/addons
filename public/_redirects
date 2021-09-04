@@ -1,20 +1,9 @@
 # Redirects from what the game client requests to what we serve.
-# Pages won't allow domain-level redirects to outside sites so we use netlify instead.
-# Todo: Investigate filehosting options and mirrors.
 
-# Website
-/ https://github.com/KexQUAKE/addons 200
-index.html https://github.com/KexQUAKE/addons 200
-
-# Official Mods
+# Official Addons
 q64.pak https://d13lkw7j6mfai6.cloudfront.net/q64.pak 301
-q64-mirror.pak https://github.com/kexquake/addons/releases/download/q64-1/q64.pak 301
 
-# Stable Mods
-xmen.pak https://q1mods.xyz/xmen.pak 301
+# Stable Addons
+xmen.pak https://github.com/kexquake/addons/releases/download/xmen-1/xmen.pak 301
 
-# Beta Mods
-ad.pak https://q1mods.xyz/ad.pak 301
-kickflip.pak https://q1mods.xyz/kickflip.pak 301
-rubicon.pak https://q1mods.xyz/rubicon.pak 301
-fortress.pak https://q1mods.xyz/fortress.pak 301
+# Testing Addons

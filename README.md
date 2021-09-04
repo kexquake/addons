@@ -11,13 +11,15 @@
 
 **Table of Contents**
 
-- [Quick Setup](#quick-setup)
-  - [Testing Branch](#testing-branch)
-- [Troubleshooting](#troubleshooting)
-  - [Opening the addon menu crashes the game](#troubleshooting)
-  - [Activating mod crashes the game](#troubleshooting)
-  - [I'm experiencing a technical problem with a mod](#troubleshooting)
-- [Credit](#credit)
+- [Quake 2021 Remaster (Kex Quake) Mod Server](#quake-2021-remaster-kex-quake-mod-server)
+  - [Quick Setup](#quick-setup)
+    - [Testing Branch](#testing-branch)
+  - [Available Addons](#available-addons)
+  - [Troubleshooting](#troubleshooting)
+    - [Opening the addon menu crashes the game](#opening-the-addon-menu-crashes-the-game)
+    - [Activating a mod crashes the game](#activating-a-mod-crashes-the-game)
+    - [I'm experiencing a technical problem with a mod](#im-experiencing-a-technical-problem-with-a-mod)
+  - [Credit](#credit)
 
 ## Quick Setup
 
@@ -26,16 +28,20 @@ Append `+ui_addonsBaseURL http://kexquake.netlify.app/` to your Quake [launch op
 ### Testing Branch
 If you wish to test additional mods in various stages of compatibility:
 
-Append `+ui_addonsBaseURL http://kexquake.netlify.app/beta/` to your Quake [launch options].
+Append `+ui_addonsBaseURL http://kexquake.netlify.app/testing/` to your Quake [launch options].
 
 Submit an issue if you discover a mod is now fully functional after a game update.
+
+## Available Addons
+- Quake 64
+- X-Men: The Ravages of Apocalypse
 
 ## Troubleshooting
 
 ### Opening the addon menu crashes the game
-Make sure you have a trailing slash on the addons URL. The `content.json` file on the server might also be incorrectly formatted, let someone know.
+Make sure you have a trailing slash on the addons URL.
 ### Activating a mod crashes the game
-Your download was either corrupted or the download server is currently down. Delete it and try downloading it again.
+Your download was either corrupted or there's connectivity issues with the server. Delete the addon and try again.
 ### I'm experiencing a technical problem with a mod
 Post an issue on how to replicate the problem and we'll take a look at it and consider moving it back to testing.
 
