@@ -16,7 +16,7 @@
   - [Quick Setup](#quick-setup)
     - [Testing Branch](#testing-branch)
   - [Available Addons](#available-addons)
-  - [Testing Branch](#testing-branch-1)
+      - [Testing Branch](#testing-branch-1)
   - [Troubleshooting](#troubleshooting)
     - [Opening the addon menu crashes the game](#opening-the-addon-menu-crashes-the-game)
     - [Activating a mod crashes the game](#activating-a-mod-crashes-the-game)
@@ -45,8 +45,8 @@ Submit an issue if you discover a mod is now fully functional after a game updat
 <details>
   <summary>Click to see addons in testing...</summary>
   
-  ## Testing Branch
-- Arcane Dimensions
+  #### Testing Branch
+- Arcane Dimensions (Problems saving)
 </details>
 
 
