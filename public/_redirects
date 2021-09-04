@@ -1,10 +1,14 @@
 # Redirects from what the game client requests to what we serve.
 
+# Setup
+/testing/dl/* /dl/:splat 301
+
 # Official Addons
-q64.pak https://d13lkw7j6mfai6.cloudfront.net/q64.pak 301
+/dl/q64.pak https://d13lkw7j6mfai6.cloudfront.net/q64.pak 301
+/screenshots/q64/* https://d13lkw7j6mfai6.cloudfront.net/:splat 301
 
 # Stable Addons
-xmen.pak https://github.com/kexquake/addons/releases/download/xmen-1/xmen.pak 301
+/dl/xmen.pak https://github.com/kexquake/addons/releases/download/xmen-1/xmen.pak 301
 
 # Testing Addons
-ad.pak https://github.com/kexquake/addons/releases/download/ad-1/ad.pak 301
+/dl/ad.pak https://github.com/kexquake/addons/releases/download/ad-1/ad.pak 301
