@@ -20,6 +20,8 @@
     - [Activating a mod crashes the game](#activating-a-mod-crashes-the-game)
     - [I'm experiencing a technical problem with a mod](#im-experiencing-a-technical-problem-with-a-mod)
   - [Credit](#credit)
+  - [Related Projects & Resources](#related-projects--resources)
+    - [Content Servers](#content-servers)
 
 ## Description
 
@@ -74,3 +76,11 @@ Post an issue on how to replicate the problem and we'll take a look at it and co
 [RamblingMadMan](https://github.com/RamblingMadMan/q1mods): For their github and example implementation.
 
 [launch options]: https://help.steampowered.com/en/faqs/view/7D01-D2DD-D75E-2955
+
+## Related Projects & Resources
+
+### Content Servers
+
+https://q1-rerelease-addons.herokuapp.com/ - Currently contains just the Clan Arena mod.
+
+https://q1mods.xyz/ - Contains a few mods in various states of functionality.
