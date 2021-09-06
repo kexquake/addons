@@ -38,7 +38,13 @@
       },
       "gamedir": "xmen",
       "download": "dl/xmen.pak",
-      "screenshots": [],
+      "screenshots": [
+        "screenshots/xmen/1.jpg",
+        "screenshots/xmen/2.jpg",
+        "screenshots/xmen/3.jpg",
+        "screenshots/xmen/4.jpg",
+        "screenshots/xmen/5.jpg"
+      ],
       "id": "xmen"
     }
   ]

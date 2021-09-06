@@ -25,13 +25,14 @@
 
 ## Description
 
-This is an alternative addon server for Quake (2021) allowing you to easily access additional community created content. 
+This is a custom addon server for Quake (2021) allowing you easy access to additional community created content. 
 
 ## Quick Setup
 
 Append `+ui_addonsBaseURL http://kexquake.netlify.app/` to your Quake [launch options].
 
 ### Testing Branch
+
 If you wish to test additional mods in various stages of compatibility:
 
 Append `+ui_addonsBaseURL http://kexquake.netlify.app/testing/` to your Quake [launch options].
@@ -39,13 +40,15 @@ Append `+ui_addonsBaseURL http://kexquake.netlify.app/testing/` to your Quake [l
 Submit an issue if you discover a mod is now fully functional after a game update.
 
 ## Available Addons
+
 - Quake 64
 - X-Men: The Ravages of Apocalypse
   
 <details>
-  <summary>Click to see addons in testing...</summary>
+  <summary>Click to see addons in testing.</summary>
   
   #### Testing Branch
+
 - Arcane Dimensions (Problems saving)
 </details>
 
@@ -53,10 +56,15 @@ Submit an issue if you discover a mod is now fully functional after a game updat
 ## Troubleshooting
 
 ### Opening the addon menu crashes the game
+
 Make sure you have a trailing slash on the addons URL.
+
 ### Activating a mod crashes the game
+
 Your download was either corrupted or there's connectivity issues with the server. Delete the addon and try again.
+
 ### I'm experiencing a technical problem with a mod
+
 Post an issue on how to replicate the problem and we'll take a look at it and consider moving it back to testing.
 
 ## Credit
