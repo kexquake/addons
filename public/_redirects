@@ -2,7 +2,7 @@
 
 # Setup
 /testing/dl/* /dl/:splat 301
-/testing/screenshots/* /screenshots/:splat 301
+/testing/screenshots/* https://raw.githubusercontent.com/kexquake/addons/master/public/screenshots/:splat 301
 /screenshots/* https://raw.githubusercontent.com/kexquake/addons/master/public/screenshots/:splat 301
 
 # Official Addons
