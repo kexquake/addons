@@ -49,7 +49,11 @@ Submit an issue if you discover a mod is now fully functional after a game updat
 
 <details>
   <summary>Click for addons in testing...</summary>
-- Arcane Dimensions (Problems saving)
+
+- Arcane Dimensions
+- Copper
+- Team Fortress
+
 </details>
 
 
