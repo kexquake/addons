@@ -14,9 +14,7 @@
 - [Quake 2021 Remaster (Kex Quake) Mod Server](#quake-2021-remaster-kex-quake-mod-server)
   - [Description](#description)
   - [Quick Setup](#quick-setup)
-    - [Testing Branch](#testing-branch)
   - [Available Addons](#available-addons)
-      - [Testing Branch](#testing-branch-1)
   - [Troubleshooting](#troubleshooting)
     - [Opening the addon menu crashes the game](#opening-the-addon-menu-crashes-the-game)
     - [Activating a mod crashes the game](#activating-a-mod-crashes-the-game)
@@ -31,24 +29,24 @@ This is a custom addon server for Quake (2021) allowing you easy access to addit
 
 Append `+ui_addonsBaseURL http://kexquake.netlify.app/` to your Quake [launch options].
 
-### Testing Branch
+<details>
+  <summary>Click for Testing Branch...</summary>
 
 If you wish to test additional mods in various stages of compatibility:
 
 Append `+ui_addonsBaseURL http://kexquake.netlify.app/testing/` to your Quake [launch options].
 
-Submit an issue if you discover a mod is now fully functional after a game update.
+Submit an issue if you discover a mod is now fully functional after a game update so it can be moved up to stable.
+
+</details>
 
 ## Available Addons
 
 - Quake 64
 - X-Men: The Ravages of Apocalypse
-  
-<details>
-  <summary>Click to see addons in testing.</summary>
-  
-  #### Testing Branch
 
+<details>
+  <summary>Click for addons in testing...</summary>
 - Arcane Dimensions (Problems saving)
 </details>
 

@@ -16,10 +16,10 @@
       "gamedir": "q64",
       "download": "dl/q64.pak",
       "screenshots": [
-        "screenshots/q64/q641.jpg",
-        "screenshots/q64/q642.jpg",
-        "screenshots/q64/q643.jpg",
-        "screenshots/q64/q644.jpg"
+        "screenshots/q641.jpg",
+        "screenshots/q642.jpg",
+        "screenshots/q643.jpg",
+        "screenshots/q644.jpg"
       ],
       "id": "q64"
     },
@@ -39,11 +39,11 @@
       "gamedir": "xmen",
       "download": "dl/xmen.pak",
       "screenshots": [
-        "screenshots/xmen/1.jpg",
-        "screenshots/xmen/2.jpg",
-        "screenshots/xmen/3.jpg",
-        "screenshots/xmen/4.jpg",
-        "screenshots/xmen/5.jpg"
+        "screenshots/xmen1.jpg",
+        "screenshots/xmen2.jpg",
+        "screenshots/xmen3.jpg",
+        "screenshots/xmen4.jpg",
+        "screenshots/xmen5.jpg"
       ],
       "id": "xmen"
     }
