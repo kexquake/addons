@@ -1,53 +1,6 @@
 {
   "addons": [
     {
-      "name": "Quake 64",
-      "author": "Midway Games",
-      "date": "1998",
-      "size": 101636600,
-      "description": {
-        "fr": "While DOOM was ported to many platforms throughout its lifetime, Quake only saw two ports due to its much higher system requirements. One of those ports was to a 32-bit console, and the other was Quake 64. While both ports featured modified versions of the original levels in order to run on the hardware at the time, Quake 64 featured a few changes that differentiated itself from the original 1996 release. Colored lighting, a brand new soundtrack by acclaimed composer Aubrey Hodges, and two player split screen multiplayer were all unique to this version of the game. The unique nature of Quake 64 has caused it to be looked back on fondly by some players over the years, which is why we are happy to be able to bring it into modern times, with the original soundtrack intact.",
-        "it": "While DOOM was ported to many platforms throughout its lifetime, Quake only saw two ports due to its much higher system requirements. One of those ports was to a 32-bit console, and the other was Quake 64. While both ports featured modified versions of the original levels in order to run on the hardware at the time, Quake 64 featured a few changes that differentiated itself from the original 1996 release. Colored lighting, a brand new soundtrack by acclaimed composer Aubrey Hodges, and two player split screen multiplayer were all unique to this version of the game. The unique nature of Quake 64 has caused it to be looked back on fondly by some players over the years, which is why we are happy to be able to bring it into modern times, with the original soundtrack intact.",
-        "de": "While DOOM was ported to many platforms throughout its lifetime, Quake only saw two ports due to its much higher system requirements. One of those ports was to a 32-bit console, and the other was Quake 64. While both ports featured modified versions of the original levels in order to run on the hardware at the time, Quake 64 featured a few changes that differentiated itself from the original 1996 release. Colored lighting, a brand new soundtrack by acclaimed composer Aubrey Hodges, and two player split screen multiplayer were all unique to this version of the game. The unique nature of Quake 64 has caused it to be looked back on fondly by some players over the years, which is why we are happy to be able to bring it into modern times, with the original soundtrack intact.",
-        "en": "While DOOM was ported to many platforms throughout its lifetime, Quake only saw two ports due to its much higher system requirements. One of those ports was to a 32-bit console, and the other was Quake 64. While both ports featured modified versions of the original levels in order to run on the hardware at the time, Quake 64 featured a few changes that differentiated itself from the original 1996 release. Colored lighting, a brand new soundtrack by acclaimed composer Aubrey Hodges, and two player split screen multiplayer were all unique to this version of the game. The unique nature of Quake 64 has caused it to be looked back on fondly by some players over the years, which is why we are happy to be able to bring it into modern times, with the original soundtrack intact.",
-        "es": "While DOOM was ported to many platforms throughout its lifetime, Quake only saw two ports due to its much higher system requirements. One of those ports was to a 32-bit console, and the other was Quake 64. While both ports featured modified versions of the original levels in order to run on the hardware at the time, Quake 64 featured a few changes that differentiated itself from the original 1996 release. Colored lighting, a brand new soundtrack by acclaimed composer Aubrey Hodges, and two player split screen multiplayer were all unique to this version of the game. The unique nature of Quake 64 has caused it to be looked back on fondly by some players over the years, which is why we are happy to be able to bring it into modern times, with the original soundtrack intact.",
-        "ru": "While DOOM was ported to many platforms throughout its lifetime, Quake only saw two ports due to its much higher system requirements. One of those ports was to a 32-bit console, and the other was Quake 64. While both ports featured modified versions of the original levels in order to run on the hardware at the time, Quake 64 featured a few changes that differentiated itself from the original 1996 release. Colored lighting, a brand new soundtrack by acclaimed composer Aubrey Hodges, and two player split screen multiplayer were all unique to this version of the game. The unique nature of Quake 64 has caused it to be looked back on fondly by some players over the years, which is why we are happy to be able to bring it into modern times, with the original soundtrack intact."
-      },
-      "gamedir": "q64",
-      "download": "dl/q64.pak",
-      "screenshots": [
-        "screenshots/q641.jpg",
-        "screenshots/q642.jpg",
-        "screenshots/q643.jpg",
-        "screenshots/q644.jpg"
-      ],
-      "id": "q64"
-    },
-    {
-      "name": "X-Men: The Ravages of Apocalypse",
-      "author": "Zero Gravity Entertainment",
-      "date": "1997",
-      "size": 161226344,
-      "description": {
-        "fr": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
-        "it": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
-        "de": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
-        "en": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
-        "es": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
-        "ru": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property."
-      },
-      "gamedir": "xmen",
-      "download": "dl/xmen.pak",
-      "screenshots": [
-        "screenshots/xmen1.jpg",
-        "screenshots/xmen2.jpg",
-        "screenshots/xmen3.jpg",
-        "screenshots/xmen4.jpg",
-        "screenshots/xmen5.jpg"
-      ],
-      "id": "xmen"
-    },
-    {
       "name": "Arcane Dimensions",
       "author": "simonoc",
       "date": "2015",
@@ -93,6 +46,53 @@
         "screenshots/copper4.jpg"
       ],
       "id": "copper"
+    },
+    {
+      "name": "Quake 64",
+      "author": "Midway Games",
+      "date": "1998",
+      "size": 101636600,
+      "description": {
+        "fr": "While DOOM was ported to many platforms throughout its lifetime, Quake only saw two ports due to its much higher system requirements. One of those ports was to a 32-bit console, and the other was Quake 64. While both ports featured modified versions of the original levels in order to run on the hardware at the time, Quake 64 featured a few changes that differentiated itself from the original 1996 release. Colored lighting, a brand new soundtrack by acclaimed composer Aubrey Hodges, and two player split screen multiplayer were all unique to this version of the game. The unique nature of Quake 64 has caused it to be looked back on fondly by some players over the years, which is why we are happy to be able to bring it into modern times, with the original soundtrack intact.",
+        "it": "While DOOM was ported to many platforms throughout its lifetime, Quake only saw two ports due to its much higher system requirements. One of those ports was to a 32-bit console, and the other was Quake 64. While both ports featured modified versions of the original levels in order to run on the hardware at the time, Quake 64 featured a few changes that differentiated itself from the original 1996 release. Colored lighting, a brand new soundtrack by acclaimed composer Aubrey Hodges, and two player split screen multiplayer were all unique to this version of the game. The unique nature of Quake 64 has caused it to be looked back on fondly by some players over the years, which is why we are happy to be able to bring it into modern times, with the original soundtrack intact.",
+        "de": "While DOOM was ported to many platforms throughout its lifetime, Quake only saw two ports due to its much higher system requirements. One of those ports was to a 32-bit console, and the other was Quake 64. While both ports featured modified versions of the original levels in order to run on the hardware at the time, Quake 64 featured a few changes that differentiated itself from the original 1996 release. Colored lighting, a brand new soundtrack by acclaimed composer Aubrey Hodges, and two player split screen multiplayer were all unique to this version of the game. The unique nature of Quake 64 has caused it to be looked back on fondly by some players over the years, which is why we are happy to be able to bring it into modern times, with the original soundtrack intact.",
+        "en": "While DOOM was ported to many platforms throughout its lifetime, Quake only saw two ports due to its much higher system requirements. One of those ports was to a 32-bit console, and the other was Quake 64. While both ports featured modified versions of the original levels in order to run on the hardware at the time, Quake 64 featured a few changes that differentiated itself from the original 1996 release. Colored lighting, a brand new soundtrack by acclaimed composer Aubrey Hodges, and two player split screen multiplayer were all unique to this version of the game. The unique nature of Quake 64 has caused it to be looked back on fondly by some players over the years, which is why we are happy to be able to bring it into modern times, with the original soundtrack intact.",
+        "es": "While DOOM was ported to many platforms throughout its lifetime, Quake only saw two ports due to its much higher system requirements. One of those ports was to a 32-bit console, and the other was Quake 64. While both ports featured modified versions of the original levels in order to run on the hardware at the time, Quake 64 featured a few changes that differentiated itself from the original 1996 release. Colored lighting, a brand new soundtrack by acclaimed composer Aubrey Hodges, and two player split screen multiplayer were all unique to this version of the game. The unique nature of Quake 64 has caused it to be looked back on fondly by some players over the years, which is why we are happy to be able to bring it into modern times, with the original soundtrack intact.",
+        "ru": "While DOOM was ported to many platforms throughout its lifetime, Quake only saw two ports due to its much higher system requirements. One of those ports was to a 32-bit console, and the other was Quake 64. While both ports featured modified versions of the original levels in order to run on the hardware at the time, Quake 64 featured a few changes that differentiated itself from the original 1996 release. Colored lighting, a brand new soundtrack by acclaimed composer Aubrey Hodges, and two player split screen multiplayer were all unique to this version of the game. The unique nature of Quake 64 has caused it to be looked back on fondly by some players over the years, which is why we are happy to be able to bring it into modern times, with the original soundtrack intact."
+      },
+      "gamedir": "q64",
+      "download": "dl/q64.pak",
+      "screenshots": [
+        "screenshots/q641.jpg",
+        "screenshots/q642.jpg",
+        "screenshots/q643.jpg",
+        "screenshots/q644.jpg"
+      ],
+      "id": "q64"
+    },
+    {
+      "name": "X-Men: The Ravages of Apocalypse",
+      "author": "Zero Gravity Entertainment",
+      "date": "1997",
+      "size": 161226344,
+      "description": {
+        "fr": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
+        "it": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
+        "de": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
+        "en": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
+        "es": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property.",
+        "ru": "X-Men: The Ravages of Apocalypse features fourteen levels, replaces the original Quake weapons with new designs, and all of the enemies in the game have been replaced with cyborg clones of popular X-Men characters, each with their own super powers; for example, Wolverine has his healing factor, Archangel is immune to rockets, etc. X-Men: The Ravages of Apocalypse was one of the first total conversions to feature a high-profile property."
+      },
+      "gamedir": "xmen",
+      "download": "dl/xmen.pak",
+      "screenshots": [
+        "screenshots/xmen1.jpg",
+        "screenshots/xmen2.jpg",
+        "screenshots/xmen3.jpg",
+        "screenshots/xmen4.jpg",
+        "screenshots/xmen5.jpg"
+      ],
+      "id": "xmen"
     }
   ]
 }
