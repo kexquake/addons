@@ -46,6 +46,53 @@
         "screenshots/xmen5.jpg"
       ],
       "id": "xmen"
+    },
+    {
+      "name": "Arcane Dimensions",
+      "author": "simonoc",
+      "date": "2015",
+      "size": 814411580,
+      "description": {
+        "fr": "30+ richly detailed and uniquely themed environments to explore and a whole new army of monsters to test your skill and reflexes along the way. The beginning of the mod is full of portals in all directions that are visually themed by what lies beyond their black star veils. There is no fixed order or preferred path to how you explore this mod, the choice is yours.",
+        "it": "30+ richly detailed and uniquely themed environments to explore and a whole new army of monsters to test your skill and reflexes along the way. The beginning of the mod is full of portals in all directions that are visually themed by what lies beyond their black star veils. There is no fixed order or preferred path to how you explore this mod, the choice is yours.",
+        "de": "30+ richly detailed and uniquely themed environments to explore and a whole new army of monsters to test your skill and reflexes along the way. The beginning of the mod is full of portals in all directions that are visually themed by what lies beyond their black star veils. There is no fixed order or preferred path to how you explore this mod, the choice is yours.",
+        "en": "30+ richly detailed and uniquely themed environments to explore and a whole new army of monsters to test your skill and reflexes along the way. The beginning of the mod is full of portals in all directions that are visually themed by what lies beyond their black star veils. There is no fixed order or preferred path to how you explore this mod, the choice is yours.",
+        "es": "30+ richly detailed and uniquely themed environments to explore and a whole new army of monsters to test your skill and reflexes along the way. The beginning of the mod is full of portals in all directions that are visually themed by what lies beyond their black star veils. There is no fixed order or preferred path to how you explore this mod, the choice is yours.",
+        "ru": "30+ richly detailed and uniquely themed environments to explore and a whole new army of monsters to test your skill and reflexes along the way. The beginning of the mod is full of portals in all directions that are visually themed by what lies beyond their black star veils. There is no fixed order or preferred path to how you explore this mod, the choice is yours."
+      },
+      "gamedir": "ad",
+      "download": "dl/ad.pak",
+      "screenshots": [
+        "screenshots/ad1.jpg",
+        "screenshots/ad2.jpg",
+        "screenshots/ad3.jpg",
+        "screenshots/ad4.jpg",
+        "screenshots/ad5.jpg"
+      ],
+      "id": "ad"
+    },
+    {
+      "name": "Copper Quake",
+      "author": "http://lunaran.com/",
+      "date": "2021",
+      "size": 73517032,
+      "description": {
+        "fr": "Copper is meant to be Vanilla+, targeted at being a drop-in improvement to stock /id1/ gameplay and an equally suitable basis for new mods. It neither adds nor replaces any items, weapons, or monsters. It is not intended to be a kitchen-sink supermod like Quoth or Arcane Dimensions, nor move Quake towards a new vision other than what it already is trying to be.",
+        "it": "Copper is meant to be Vanilla+, targeted at being a drop-in improvement to stock /id1/ gameplay and an equally suitable basis for new mods. It neither adds nor replaces any items, weapons, or monsters. It is not intended to be a kitchen-sink supermod like Quoth or Arcane Dimensions, nor move Quake towards a new vision other than what it already is trying to be.",
+        "de": "Copper is meant to be Vanilla+, targeted at being a drop-in improvement to stock /id1/ gameplay and an equally suitable basis for new mods. It neither adds nor replaces any items, weapons, or monsters. It is not intended to be a kitchen-sink supermod like Quoth or Arcane Dimensions, nor move Quake towards a new vision other than what it already is trying to be.",
+        "en": "Copper is meant to be Vanilla+, targeted at being a drop-in improvement to stock /id1/ gameplay and an equally suitable basis for new mods. It neither adds nor replaces any items, weapons, or monsters. It is not intended to be a kitchen-sink supermod like Quoth or Arcane Dimensions, nor move Quake towards a new vision other than what it already is trying to be.",
+        "es": "Copper is meant to be Vanilla+, targeted at being a drop-in improvement to stock /id1/ gameplay and an equally suitable basis for new mods. It neither adds nor replaces any items, weapons, or monsters. It is not intended to be a kitchen-sink supermod like Quoth or Arcane Dimensions, nor move Quake towards a new vision other than what it already is trying to be.",
+        "ru": "Copper is meant to be Vanilla+, targeted at being a drop-in improvement to stock /id1/ gameplay and an equally suitable basis for new mods. It neither adds nor replaces any items, weapons, or monsters. It is not intended to be a kitchen-sink supermod like Quoth or Arcane Dimensions, nor move Quake towards a new vision other than what it already is trying to be."
+      },
+      "gamedir": "copper",
+      "download": "dl/copper.pak",
+      "screenshots": [
+        "screenshots/copper1.jpg",
+        "screenshots/copper2.jpg",
+        "screenshots/copper3.jpg",
+        "screenshots/copper4.jpg"
+      ],
+      "id": "copper"
     }
   ]
 }
