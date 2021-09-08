@@ -1,6 +1,33 @@
 {
   "addons": [
     {
+      "name": "Alkaline",
+      "author": "Bal, Bloodshot, bmFbr, Greenwood, grome, Juzley, khreathor, Makkon, Mista Heita, Scampie, Shamblernaut, zigi",
+      "date": "2021",
+      "size": 369861444,
+      "description": {
+        "fr": "Nine large, open industrial/base levels and a starting hub map. The underlying mod features a large number new and modified enemies, weapons and additional content like models, sounds, skyboxes and music tracks for each map. It is also meant to serve as a general toolbox for base-themed levels.",
+        "it": "Nine large, open industrial/base levels and a starting hub map. The underlying mod features a large number new and modified enemies, weapons and additional content like models, sounds, skyboxes and music tracks for each map. It is also meant to serve as a general toolbox for base-themed levels..",
+        "de": "Nine large, open industrial/base levels and a starting hub map. The underlying mod features a large number new and modified enemies, weapons and additional content like models, sounds, skyboxes and music tracks for each map. It is also meant to serve as a general toolbox for base-themed levels.",
+        "en": "Nine large, open industrial/base levels and a starting hub map. The underlying mod features a large number new and modified enemies, weapons and additional content like models, sounds, skyboxes and music tracks for each map. It is also meant to serve as a general toolbox for base-themed levels.",
+        "es": "Nine large, open industrial/base levels and a starting hub map. The underlying mod features a large number new and modified enemies, weapons and additional content like models, sounds, skyboxes and music tracks for each map. It is also meant to serve as a general toolbox for base-themed levels.",
+        "ru": "Nine large, open industrial/base levels and a starting hub map. The underlying mod features a large number new and modified enemies, weapons and additional content like models, sounds, skyboxes and music tracks for each map. It is also meant to serve as a general toolbox for base-themed levels."
+      },
+      "gamedir": "alkaline",
+      "download": "dl/alkaline.pak",
+      "screenshots": [
+        "screenshots/alkaline1.jpg",
+        "screenshots/alkaline2.jpg",
+        "screenshots/alkaline3.jpg",
+        "screenshots/alkaline4.jpg",
+        "screenshots/alkaline5.jpg",
+        "screenshots/alkaline6.jpg",
+        "screenshots/alkaline7.jpg",
+        "screenshots/alkaline8.jpg",
+      ],
+      "id": "alkaline"
+    },
+    {
       "name": "Arcane Dimensions",
       "author": "simonoc",
       "date": "2015",
