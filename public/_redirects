@@ -5,14 +5,11 @@
 /testing/screenshots/* https://raw.githubusercontent.com/kexquake/addons/master/public/screenshots/:splat
 /screenshots/* https://raw.githubusercontent.com/kexquake/addons/master/public/screenshots/:splat
 
-# Official Addons
-/dl/q64.pak https://d13lkw7j6mfai6.cloudfront.net/q64.pak
-
-# Stable Addons
+# Addons
 /dl/alkaline.pak https://github.com/kexquake/addons/releases/download/alkaline-1/alkaline.pak
 /dl/ad.pak https://github.com/kexquake/addons/releases/download/ad-1/ad.pak
 /dl/copper.pak https://github.com/kexquake/addons/releases/download/copper-1/copper.pak
-/dl/xmen.pak https://github.com/kexquake/addons/releases/download/xmen-2/xmen.pak
-
-# Testing Addons
+/dl/dwell.pak https://github.com/kexquake/addons/releases/download/dwell-1/dwell.pak
 /dl/fortress.pak https://github.com/kexquake/addons/releases/download/fortress-1/fortress.pak
+/dl/q64.pak https://d13lkw7j6mfai6.cloudfront.net/q64.pak
+/dl/xmen.pak https://github.com/kexquake/addons/releases/download/xmen-2/xmen.pak

@@ -44,14 +44,16 @@ Submit an issue if you discover a mod is now fully functional after a game updat
 
 ## Available Addons
 
+- Alkaline
+- Arcane Dimensions
+- Copper
+- Dwell
 - Quake 64
 - X-Men: The Ravages of Apocalypse
 
 <details>
   <summary>Click for addons in testing...</summary>
 
-- Arcane Dimensions
-- Copper
 - Team Fortress
 
 </details>
